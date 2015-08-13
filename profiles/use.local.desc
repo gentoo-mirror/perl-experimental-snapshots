@@ -1,6 +1,6 @@
 # This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
 # your descriptions to your package's metadata.xml ONLY.
-# * generated automatically using egencache *
+# * generated automatically using pmaint *
 
 dev-perl/Acme-LAUTER-DEUTSCHER:nettest - Enable network-only tests
 dev-perl/Any-URI-Escape:recommended - Install URL-Escape-XS for faster URI Escaping.
